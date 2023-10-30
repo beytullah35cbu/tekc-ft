@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FFC057F0-C186-44D1-8F7D-E8325D4F04E3}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tekcıft/Program.cs">
+    <Files>
+      <File FileName="tekcıft/Program.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tekcıft" expanded="True">
+            <Node name="tekcıft" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.tekcıft PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

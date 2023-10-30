@@ -1,0 +1,15 @@
+/Users/beytullah/Projects/tekcıft/tekcıft/bin/Debug/net7.0/tekcıft
+/Users/beytullah/Projects/tekcıft/tekcıft/bin/Debug/net7.0/tekcıft.deps.json
+/Users/beytullah/Projects/tekcıft/tekcıft/bin/Debug/net7.0/tekcıft.runtimeconfig.json
+/Users/beytullah/Projects/tekcıft/tekcıft/bin/Debug/net7.0/tekcıft.dll
+/Users/beytullah/Projects/tekcıft/tekcıft/bin/Debug/net7.0/tekcıft.pdb
+/Users/beytullah/Projects/tekcıft/tekcıft/obj/Debug/net7.0/tekcıft.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/tekcıft/tekcıft/obj/Debug/net7.0/tekcıft.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/tekcıft/tekcıft/obj/Debug/net7.0/tekcıft.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/tekcıft/tekcıft/obj/Debug/net7.0/tekcıft.AssemblyInfo.cs
+/Users/beytullah/Projects/tekcıft/tekcıft/obj/Debug/net7.0/tekcıft.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/tekcıft/tekcıft/obj/Debug/net7.0/tekcıft.dll
+/Users/beytullah/Projects/tekcıft/tekcıft/obj/Debug/net7.0/refint/tekcıft.dll
+/Users/beytullah/Projects/tekcıft/tekcıft/obj/Debug/net7.0/tekcıft.pdb
+/Users/beytullah/Projects/tekcıft/tekcıft/obj/Debug/net7.0/tekcıft.genruntimeconfig.cache
+/Users/beytullah/Projects/tekcıft/tekcıft/obj/Debug/net7.0/ref/tekcıft.dll
